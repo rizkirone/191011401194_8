@@ -1,5 +1,5 @@
 # aplikasi_cuaca
-https://github.com/rizkirone/191011401194_8/issues/1#issue-1229967829
+![screenshot ui](https://user-images.githubusercontent.com/102182778/167454962-5ae533eb-76a7-4568-9116-eda666270b8e.PNG)
 
 A new Flutter project.
 
